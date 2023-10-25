@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(418,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(419,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(423,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(424,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(426,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(427,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(436,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Module 6 Assignment\Source.cpp(869,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Module 6 Assignment.vcxproj -> C:\Users\HP\Documents\School\SNHU\Classes\CS-330-J7890\OpenGLSample\Debug\Module 6 Assignment.exe
