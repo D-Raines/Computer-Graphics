@@ -1,7 +1,7 @@
 # Computer-Graphics
 Examples of OpenGL Rendering
 
-![Final Project Image](/assets/images/Project_Image_1.png](https://github.com/D-Raines/Computer-Graphics/blob/main/assets/images/Project_Image_1.png)](https://github.com/D-Raines/Computer-Graphics/blob/main/assets/images/Project_Image_1.png)
+![Final Project Image](https://github.com/D-Raines/Computer-Graphics/blob/main/assets/images/Project_Image_1.png)
 
 ***How do I approach designing software?***
 
