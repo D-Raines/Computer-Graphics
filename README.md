@@ -1,6 +1,7 @@
 # Computer-Graphics
 Examples of OpenGL Rendering
 
+(/assets/images/Project_Image_1.png)
 
 ***How do I approach designing software?***
 
